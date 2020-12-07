@@ -8,6 +8,6 @@ describe('example test', () => {
 
     it("should give sum of a + c when adding a and c", () => {
         let example: Example = new Example();
-        expect(example.add(2, 3)).toBe(5);
+        expect(example.add(6, 3)).toBe(7);
     })
 })
