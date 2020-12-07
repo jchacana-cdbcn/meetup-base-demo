@@ -1,6 +1,6 @@
 # Typescript + Jest Kata Seed
 
-## please don't do that at home !
+## please don't do that at home ! unless you are an adult
 
 ## Install & Run
 `npm i`
