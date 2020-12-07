@@ -1,5 +1,7 @@
 # Typescript + Jest Kata Seed
 
+## please don't do that at home !
+
 ## Install & Run
 `npm i`
 
